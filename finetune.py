@@ -45,7 +45,7 @@ def get_data():
 
 import lamini
 from lamini import Lamini
-lamini.api_key="41f21065b63dc162242962046be8b35c0e8b21bb15438f619ff5bab6a40222ef"
+lamini.api_key="your_api_key_here"
 
 llm=Lamini(model_name="meta-llama/Meta-Llama-3-8B-Instruct")
 
