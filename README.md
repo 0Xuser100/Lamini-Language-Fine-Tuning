@@ -1,4 +1,3 @@
-Here's a sample README file for the code you've provided. It explains what the code does, how to set it up, and provides instructions on how to use it.
 
 ```markdown
 # Lamini Language Model Tuning
